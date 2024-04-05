@@ -1,17 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/o5bPyQCj)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=14563641)
-# Uzdevums:
-Izstrādāt informācijas sistēmu tūrismā aģentūrai, kas apstrādā informāciju par ceļojumiem (ceļojuma identifikators; pilsēta; datums; dienu skaits; cena un transportlīdzekļa veids). Informācija par ceļojumiem tiek glabāta tekstā failā db.csv.
+# Task:
+Develop an information system in tourism for an agency that processes travel information (trip identifier; city; date; number of days; price and type of vehicle). Trip information is stored in text in a db.csv file.
 
-Programmā paredzēt sekojošas darbības:
-* apskatīt faila saturu, datus izvadīt tabulas veidā;
-* ierakstīt failā informāciju par jauno ceļazīmi;
-* izslēgt no faila informāciju;
-* koriģēt informāciju par ceļazīmi;
-* sakārtot informāciju failā pēc datumiem;
-* atrast informāciju par visam ceļazīmēm, kuru cena nepārsniedz uzdoto;
-* aprēķināt ceļazīmju vidējo cenu.
+The program includes the following activities:
+* view the contents of the file, output the data in the form of a table;
+* write information about the new ticket in the file;
+* exclude information from the file;
+* correct the information about the travel ticket;
+* sort the information in the file by date;
+* find information about all travel tickets, the price of which does not exceed the specified price;
+* calculate the average price of road tickets.
 
-# Prasības programmai atrodas ORTUSā.
-# Failus mapē "files" nemodificēt un nedzēst veiksmīgai testu izpildei
-
+# Requirements for the program are located in ORTUS.
+# Do not modify or delete files in the "files" folder for successful test execution
