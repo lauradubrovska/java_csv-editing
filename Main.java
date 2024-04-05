@@ -1,4 +1,4 @@
-//Laura Dubrovska 231RDB049 10.grupa
+//Laura Dubrovska 
 import java.io.*;
 import java.util.Scanner;
 import java.util.List;
