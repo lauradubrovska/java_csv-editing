@@ -10,5 +10,3 @@ The program includes the following activities:
 * find information about all travel tickets, the price of which does not exceed the specified price;
 * calculate the average price of road tickets.
 
-# Requirements for the program are located in ORTUS.
-# Do not modify or delete files in the "files" folder for successful test execution
